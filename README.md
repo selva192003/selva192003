@@ -18,9 +18,9 @@ I'm an MCA student passionate about technology and software development. Current
 
 ## 📂 Projects
 Here are a few projects I've worked on:
-- Online-Food-Ordering_system( ->
-             The Online Food Ordering System is a web-based application designed to streamline the process of ordering food from various restaurants. This platform allows users to browse menus, place orders, and make payments—all from the comfort of their homes. It aims to enhance the dining experience by providing a convenient and user-friendly interface.
-- E-learning website( ->
+- Online-Food-Ordering_system ( https://github.com/selva192003/online-food-ordering-system ):
+             ->The Online Food Ordering System is a web-based application designed to streamline the process of ordering food from various restaurants. This platform allows users to browse menus, place orders, and make payments—all from the comfort of their homes. It aims to enhance the dining experience by providing a convenient and user-friendly interface.
+- E-learning website( 
              The eLearning Website is an interactive platform designed to facilitate online learning and knowledge sharing. It provides users with access to a variety of courses, resources, and learning materials, making education more accessible and flexible for students of all ages.
 
 ## 🔗 Connect with Me
