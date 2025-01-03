@@ -34,6 +34,6 @@ Here are a few projects I've worked on:
 I'm always open to collaboration and new opportunities! Feel free to reach out to me at selvaj192003@gmail.com.
 
 ## ⚡ Fun Fact
-In my free time, I enjoy playing cricket. This sport has taught me a valuable lesson: "Face your failures until they can no longer face you." It’s a reminder to embrace challenges and keep pushing forward!
+In my free time, I enjoy playing cricket. This sport has taught me a valuable lesson: "Face the Failures untill the failure fails to face you." It’s a reminder to embrace challenges and keep pushing forward!
 
 Thanks for stopping by! Feel free to explore my projects and connect with me!
