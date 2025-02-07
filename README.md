@@ -1,62 +1,63 @@
-# Hi👋, I'm SELVA.J
-A passionate Software Developer from India
+<h1 align="center">Hi 👋, I'm Selva</h1>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+I'm an MCA student passionate about technology and software development. Currently based at **Kongu Engineering College, Erode**, I love exploring new programming languages and building innovative projects.
+
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
 
-I'm an MCA student passionate about technology and software development. Currently based in Kongu Engineering College,Eorde, I love exploring new programming languages and building innovative projects.
-
 ## 🎓 About Me
-- 📚 Pursuing a Master's in Computer Applications (MCA)
-- 💻 Interested in software development, web technologies, and data science
-- 🌱 Currently learning java and Data Structure
+- 📚 Pursuing a **Master's in Computer Applications (MCA)**
+- 💻 Interested in **Software Development, Web Technologies, and Data Science**
+- 🌱 Currently learning **Java and Data Structures**
 
-## 💼 Skills
-- **Programming Languages**: Python, Java, C
-- **Web Technologies**: HTML, css
-- **Databases**: MySQL
-- **Tools**: Git, Visual Studio Code
+## 👤 Connect with Me
+<p align="left">
+ <a href="mailto:selvaj192003@gmail.com" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="35" />
+    </a>
+<a href="https://www.linkedin.com/in/selva-j-89ba092b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/dhoniselva192003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/dhoniselvvs36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/selva192003" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Codechefnewlogo.svg/120px-Codechefnewlogo.svg.png" alt="CodeChef" height="30" width="40" /></a>
+</p>
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
+## 📚 Languages and Tools
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Languages and Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 📚 Projects
 
+### 🥡 [Online Food Ordering System](https://github.com/selva192003/online-food-ordering-system)  
+- A web-based application designed to streamline the process of ordering food from various restaurants.
+- Allows users to browse menus, place orders, and make payments online.
+- Provides a user-friendly and convenient experience for customers.
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+ Source Code: [View Source Code](https://github.com/selva192003/online-food-ordering-system)
 
-### 📊 GitHub Stats:
-## 📈 My GitHub Stats
+---
 
+### 🎓 [E-Learning Website](https://github.com/selva192003/Mini-Project)  
+- An interactive platform designed for online learning and knowledge sharing.
+- Provides access to various courses, resources, and learning materials.
+- Enhances education accessibility for students of all ages.
 
-## 📂 Projects
-Here are a few projects I've worked on:
-
-- Online-Food-Ordering_system ( https://github.com/selva192003/online-food-ordering-system ):
-- 
-             ->The Online Food Ordering System is a web-based application designed to streamline the process of ordering food from various restaurants. This platform allows users to browse menus, place orders, and make payments—all from the comfort of their homes. It aims to enhance the dining experience by providing a convenient and user-friendly interface.
-- E-learning website( https://github.com/selva192003/Mini-Project ):
-             ->The eLearning Website is an interactive platform designed to facilitate online learning and knowledge sharing. It provides users with access to a variety of courses, resources, and learning materials, making education more accessible and flexible for students of all ages.
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Portfolio](https://yourwebsite.com)
-
-## 📫 Get in Touch
-I'm always open to collaboration and new opportunities! Feel free to reach out to me at selvaj192003@gmail.com.
+Source Code: [View Source Code](https://github.com/selva192003/Mini-Project)
 
 ## ⚡ Fun Fact
-In my free time, I enjoy playing cricket. This sport has taught me a valuable lesson: "Face the Failures untill the failure fails to face you." It’s a reminder to embrace challenges and keep pushing forward!
+In my free time, I enjoy playing **cricket**. This sport has taught me a valuable lesson: 
 
-Thanks for stopping by! Feel free to explore my projects and connect with me!
+> "Face the failures until the failure fails to face you."
+
+It’s a reminder to embrace challenges and keep pushing forward!
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vashanth-kumar&show_icons=true&locale=en&layout=compact" alt="vashanth-kumar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vashanth-kumar&show_icons=true&locale=en" alt="vashanth-kumar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vashanth-kumar&" alt="vashanth-kumar" /></p>
+
+Thanks for stopping by! Feel free to explore my projects and connect with me! 🚀
