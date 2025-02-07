@@ -1,11 +1,17 @@
-# Hello, I'm SELVA.J 👋
+# Hi👋, I'm SELVA.J
+A passionate Software Developer from India
+
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
 
 I'm an MCA student passionate about technology and software development. Currently based in Kongu Engineering College,Eorde, I love exploring new programming languages and building innovative projects.
 
 ## 🎓 About Me
 - 📚 Pursuing a Master's in Computer Applications (MCA)
 - 💻 Interested in software development, web technologies, and data science
-- 🌱 Currently learning java
+- 🌱 Currently learning java and Data Structure
 
 ## 💼 Skills
 - **Programming Languages**: Python, Java, C
@@ -13,6 +19,23 @@ I'm an MCA student passionate about technology and software development. Current
 - **Databases**: MySQL
 - **Tools**: Git, Visual Studio Code
 
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
+
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+### 📊 GitHub Stats:
 ## 📈 My GitHub Stats
 
 
